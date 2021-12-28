@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15d10f26-8df1-449d-9eb4-66aab639025b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trading_strategy_app/lib/commons/routes.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trading_strategy_app/lib/presentation/splash/splash_screen.dart" afterDir="false" />
+    <list default="true" id="15d10f26-8df1-449d-9eb4-66aab639025b" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trading_strategy_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/trading_strategy_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trading_strategy_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/trading_strategy_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trading_strategy_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/trading_strategy_app/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +60,12 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/trading_strategy_app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,6 +97,8 @@
       <updated>1622662969927</updated>
       <workItem from="1622662976767" duration="1439000" />
       <workItem from="1622753749253" duration="477000" />
+      <workItem from="1622889520253" duration="289000" />
+      <workItem from="1640686961801" duration="3118000" />
     </task>
     <servers />
   </component>
@@ -89,31 +115,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="285" y="9" key="#Project_Structure" timestamp="1622663192262">
+    <state x="188" y="119" key="new project wizard" timestamp="1640690852234">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="285" y="9" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1622663192262" />
-    <state x="585" y="135" key="FileChooserDialogImpl" timestamp="1622664060272">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="585" y="135" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1622664060272" />
-    <state x="650" y="333" key="Github.ShareDialog" timestamp="1622664193961">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="650" y="333" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1622664193961" />
-    <state x="448" y="140" key="Github.UntrackedFilesDialog" timestamp="1622664217988">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="448" y="140" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622664217988" />
-    <state x="470" y="140" width="689" height="589" key="NewModule_or_Project.wizard" timestamp="1622664068287">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="470" y="140" width="689" height="589" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1622664068287" />
-    <state x="188" y="55" key="new project wizard" timestamp="1622663299444">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="188" y="55" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1622663299444" />
+    <state x="188" y="119" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1640690852234" />
   </component>
 </project>
